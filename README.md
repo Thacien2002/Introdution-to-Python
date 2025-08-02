@@ -1,4 +1,4 @@
-# Introduction-to-Python
+# Introduction to Python: From Beginner to Advanced
 
 This project is a beginner-friendly introduction to Python programming.  
 It covers essential topics such as:
